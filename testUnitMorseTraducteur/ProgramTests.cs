@@ -20,7 +20,7 @@ namespace testUnitMorseTraducteur
         [TestMethod]
         public void testTraduirPhrase()
         {
-            string phrase = Program.traduirePhrase("aa ee");
+            string phrase = Program.traduirePhrase("aa ee");  
 
             Assert.AreEqual(phrase, ".- .- / . . ");
         }
