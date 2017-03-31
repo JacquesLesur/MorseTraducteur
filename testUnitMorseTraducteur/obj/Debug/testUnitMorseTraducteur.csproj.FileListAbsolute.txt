@@ -1,0 +1,9 @@
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\testUnitMorseTraducteur.dll
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\testUnitMorseTraducteur.pdb
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\obj\Debug\testUnitMorseTraducteur.csprojResolveAssemblyReference.cache
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\obj\Debug\testUnitMorseTraducteur.dll
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\obj\Debug\testUnitMorseTraducteur.pdb
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\MorseTraducteur.exe
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\testUnitMorseTraducteur\bin\Debug\MorseTraducteur.pdb

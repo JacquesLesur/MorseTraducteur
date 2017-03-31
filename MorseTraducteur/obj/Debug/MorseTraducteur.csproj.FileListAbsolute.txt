@@ -1,0 +1,6 @@
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\bin\Debug\MorseTraducteur.exe.config
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\obj\Debug\MorseTraducteur.csprojResolveAssemblyReference.cache
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\bin\Debug\MorseTraducteur.exe
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\bin\Debug\MorseTraducteur.pdb
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\obj\Debug\MorseTraducteur.exe
+c:\users\jacques\documents\visual studio 2015\Projects\MorseTraducteur\MorseTraducteur\obj\Debug\MorseTraducteur.pdb
